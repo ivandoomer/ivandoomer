@@ -1,3 +1,44 @@
-## Hi there 👋
+### Hi! My name is Ivan Carlos
 
-- 💬 This profile is my backup account, it was created during issue on my main `ivancarlosti` account.
+- IT & Cyber Security consultant
+- I talk about cybersec, gaming & tech
+
+<!-- buttons -->
+[![Stars](https://img.shields.io/github/stars/ivandoomer/ivandoomer?label=⭐%20Stars&color=gold&style=flat)](https://github.com/ivandoomer/ivandoomer/stargazers)
+[![Watchers](https://img.shields.io/github/watchers/ivandoomer/ivandoomer?label=Watchers&style=flat&color=red)](https://github.com/sponsors/ivandoomer)
+[![Forks](https://img.shields.io/github/forks/ivandoomer/ivandoomer?label=Forks&style=flat&color=ff69b4)](https://github.com/sponsors/ivandoomer)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ivandoomer/ivandoomer?label=Activity)](https://github.com/ivandoomer/ivandoomer/pulse)
+[![GitHub Issues](https://img.shields.io/github/issues/ivandoomer/ivandoomer?label=Issues&color=orange)](https://github.com/ivandoomer/ivandoomer/issues)
+[![License](https://img.shields.io/github/license/ivandoomer/ivandoomer?label=License)](LICENSE)  
+[![GitHub last commit](https://img.shields.io/github/last-commit/ivandoomer/ivandoomer?label=Last%20Commit)](https://github.com/ivandoomer/ivandoomer/commits)
+[![Security](https://img.shields.io/badge/Security-View%20Here-purple)](https://github.com/ivandoomer/ivandoomer/security)
+[![Code of Conduct](https://img.shields.io/badge/Code%20of%20Conduct-2.1-4baaaa)](https://github.com/ivandoomer/ivandoomer?tab=coc-ov-file)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/ivandoomer?label=GitHub%20Sponsors&color=ffc0cb)][sponsor]
+<!-- endbuttons -->
+
+I am here to share some [repositores](https://github.com/ivandoomer?tab=repositories) created to support my work.
+
+<!-- footer -->
+---
+
+## 🧑‍💻 Consulting and technical support
+* For personal support and queries, please submit a new issue to have it addressed.
+* For commercial related questions, please [**contact me**][ivancarlos] for consulting costs. 
+
+## 🩷 Project support
+| If you found this project helpful, consider |
+| :---: |
+[**buying me a coffee**][buymeacoffee], [**donate by paypal**][paypal], [**sponsor this project**][sponsor] or just [**leave a star**](../..)⭐
+|Thanks for your support, it is much appreciated!|
+
+[cc]: https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-code-of-conduct-to-your-project
+[contributing]: https://docs.github.com/en/articles/setting-guidelines-for-repository-contributors
+[security]: https://docs.github.com/en/code-security/getting-started/adding-a-security-policy-to-your-repository
+[support]: https://docs.github.com/en/articles/adding-support-resources-to-your-project
+[it]: https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository#configuring-the-template-chooser
+[prt]: https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/creating-a-pull-request-template-for-your-repository
+[funding]: https://docs.github.com/en/articles/displaying-a-sponsor-button-in-your-repository
+[ivancarlos]: https://ivancarlos.it
+[buymeacoffee]: https://www.buymeacoffee.com/ivancarlos
+[paypal]: https://icc.gg/donate
+[sponsor]: https://github.com/sponsors/ivandoomer
